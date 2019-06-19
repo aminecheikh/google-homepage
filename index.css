@@ -1,0 +1,46 @@
+.google-image{
+    height: 128px;
+    width: 272px;
+    bottom: var(--logo-margin-bottom);
+    left: calc(50% - 272px/2);
+    top: 30%;
+    right: 50%;
+    position: fixed;
+}
+.search-bar{
+    height: 44px;
+    width: 511px;
+    position: fixed;
+    top: 50%;
+    left: 450px;
+}
+.button{
+    height: 30px;
+    width: 60px;
+    position: fixed;
+    top: 51.5%;
+    right: 325px;
+    
+}
+.gmail{
+
+    position: fixed;
+    right: 9%;
+}
+.apps{
+    height: 50px;
+    position: fixed;
+    right: 5%;
+}
+.profile-pic{
+    border-radius: 50%;
+    height: 47px;
+    position: fixed;
+    right: 1%;
+}
+.voice-search{
+    height: 40px;
+    position: fixed;
+    top: 51%;
+    left: 923px;
+}
